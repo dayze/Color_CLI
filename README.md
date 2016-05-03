@@ -5,7 +5,9 @@ All methods are static so you don't need to instanciate the class.
 
 ##Example
 This is all the colors provided by the Color_CLI Class
+
 ![Alt text](http://195.154.75.137/storage/color_cli/color_screen.png "Optional title")
 
 You can add your own into the JSON file "color.json"
+
 ![Alt text](http://195.154.75.137/storage/color_cli/color_json_screen.png "Optional title")
